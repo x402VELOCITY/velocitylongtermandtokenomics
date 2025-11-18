@@ -2,7 +2,7 @@
 
 ##  Long-Term Roadmap & Tokenomics
 
-This document outlines the **long-term strategic vision** for X402VELOCITY Service, focusing on performance, monetization, and a **token-powered ecosystem**. We invite community collaboration and reward contributions with our utility token, **VC**.
+This document outlines the **long-term strategic vision** for X402VELOCITY Service, focusing on performance, monetization, and a **token-powered ecosystem**. We invite community collaboration and reward contributions with our utility token, **$X402V**.
 
 ---
 
@@ -50,13 +50,13 @@ The economic model of the **$VC** token is designed to align the interests of us
 
 The primary utility of the **$VC** token is to grant access to platform features:
 
-* **Premium Feature Unlock:** Holding a specified minimum balance of **$VC** in a linked wallet will automatically unlock access to premium-locked services
+* **Premium Feature Unlock:** Holding a specified minimum balance of **$X402V** in a linked wallet will automatically unlock access to premium-locked services
 
 ### Token Incentives (Reward)
 
-We believe in rewarding those who build the platform. **$VC** is the exclusive reward mechanism for community contributions:
+We believe in rewarding those who build the platform. **$X402V** is the exclusive reward mechanism for community contributions:
 
-* **Contributor Rewards:** Developers, technical writers, security researchers, and community managers who contribute high-quality, merged code or documentation will be rewarded with an allocation of **$VC** tokens.
+* **Contributor Rewards:** Developers, technical writers, security researchers, and community managers who contribute high-quality, merged code or documentation will be rewarded with an allocation of **$X402V** tokens.
 
 
 ---

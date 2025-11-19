@@ -10,9 +10,9 @@ This document outlines the **long-term strategic vision** for X402VELOCITY Servi
 
 Our service provides advanced solutions for API management, focusing on:
 
-* **Instantly x402:**
-* **Dynamic x402:** 
-* **MCP:**
+* **Instantly x402: Register any public or personal api and u get a tag to be used with VELOCITY client to paygate your endpoint**
+* **Dynamic x402: Register any public or personal api along with  your custom  tag to be used with VELOCITY client to paygate your endpoint,custom tag can be updated to new endpoint** 
+* **MCP: All user registered apis are auto MCP capable**
 
 ---
 

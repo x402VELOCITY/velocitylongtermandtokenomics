@@ -46,13 +46,13 @@ Our strategic development is focused on core platform value and creating a self-
 
 We believe in rewarding those who build the platform. **VELOCITY** is the exclusive reward mechanism for community contributions:
 
-* **Contributor Rewards:** Developers, technical writers, security researchers, and community managers who contribute high-quality, merged code or documentation will be rewarded with an allocation of **$X402V** tokens.
+* **Contributor Rewards:** Developers, technical writers, security researchers, and community managers who contribute high-quality, merged code or documentation will be rewarded with an allocation of **VELOCITY** tokens.
 
 
 ---
 
 ## 🤝 Contribution and Support
 
-will be updated soon 
+will be updated soon  (on how to contribute , how will holders be verified  and rewarded )
 We look forward to building this future with you!
 

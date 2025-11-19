@@ -1,8 +1,8 @@
 # velocitylongterm
 
-##  Long-Term Roadmap & Tokenomics
+##  Long-Term Roadmap
 
-This document outlines the **long-term strategic vision** for X402VELOCITY Service, focusing on performance, monetization, and a **token-powered ecosystem**. We invite community collaboration and reward contributions with our utility token, **$X402V**.
+This document outlines the **long-term strategic vision** for X402VELOCITY Service, focusing on performance, monetization, and a **token-powered ecosystem**. We invite community collaboration and reward contributions with our utility token, **VELOCITY**.
 
 ---
 
@@ -40,21 +40,11 @@ Our strategic development is focused on core platform value and creating a self-
 | **AI-Agentic-Inference** | **Future** | Integrate Agents to   to allow your clients to pay  per agentic use
 | **Edge Cache Optimization** | **Planned** | Advanced, configurable edge caching strategies (e.g., stale-while-revalidate) to push data closer to clients and reduce latency. |
 
----
 
-## 💎  Tokenomics: Utility and Incentives
-
-The economic model of the **$VC** token is designed to align the interests of users, developers, and the platform's long-term success.
-
-### Token Utility (Access)
-
-The primary utility of the **$VC** token is to grant access to platform features:
-
-* **Premium Feature Unlock:** Holding a specified minimum balance of **$X402V** in a linked wallet will automatically unlock access to premium-locked services
 
 ### Token Incentives (Reward)
 
-We believe in rewarding those who build the platform. **$X402V** is the exclusive reward mechanism for community contributions:
+We believe in rewarding those who build the platform. **VELOCITY** is the exclusive reward mechanism for community contributions:
 
 * **Contributor Rewards:** Developers, technical writers, security researchers, and community managers who contribute high-quality, merged code or documentation will be rewarded with an allocation of **$X402V** tokens.
 
